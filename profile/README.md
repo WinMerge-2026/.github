@@ -1,5 +1,4 @@
-
-# WinMerge - File Comparison and Merge Tool
+# WinMerge 2026 - File Comparison and Merge Tool
 
 > Compare files, inspect folder differences, and review changes in a visual workspace.
 
@@ -30,7 +29,7 @@ Use WinMerge to compare text files, inspect folder contents, review source code 
 
 The comparison workspace presents file contents side by side, making it easier to inspect modified lines, review differences, and decide which changes to retain.
 
-![WinMerge File Comparison Interface](https://winmerge.org/wp-content/uploads/2020/01/compare-files.png)
+![WinMerge File Comparison Interface](https://manual.winmerge.org/en/screenshots/tblcomp1.png)
 
 ## Folder Comparison and Change Review
 
